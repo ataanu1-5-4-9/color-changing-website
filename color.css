@@ -1,0 +1,46 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+    transition: all 2s ease;
+    min-height: 100vh;
+    background-color: #020101;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+ }
+ .main{
+    
+    width: 100vw;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+.container{
+        width: 30rem;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        
+
+         
+    
+}
+button{
+    width: 100%;
+    background-color: #160f0f;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    display:block;
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+
+}
